@@ -1,5 +1,5 @@
-# BOOTCAMP_bc_wdvp_n1
-Projetos do BootCamp Carrefour - DESAFIO DE PROJETO SOBRE GIT/GITHUB
+# Desafio n° 01 sobre Git/Github da Dio
+Repositório criado para o Desafio de Projeto.
 
 ## Links úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
